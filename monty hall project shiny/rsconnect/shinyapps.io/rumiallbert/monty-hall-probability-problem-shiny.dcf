@@ -1,0 +1,13 @@
+name: monty-hall-probability-problem-shiny
+title: monty-hall-probability-problem-shiny
+username:
+account: rumiallbert
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3844347
+bundleId: 4389073
+url: https://rumiallbert.shinyapps.io/monty-hall-probability-problem-shiny/
+when: 1616586937.5155
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: montyhallapp.Rmd
